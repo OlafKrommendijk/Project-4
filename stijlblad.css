@@ -1,5 +1,5 @@
 html { 
-	background-color: #ccf2ff;
+	background-color: #b3e6ff;
 }
 body {
 	height: 100%;
@@ -33,11 +33,12 @@ li {
 }
 
 #myHeader{
-	width: 90%;
+	width: 99%;
+	max-width: 95%;
 	position: fixed;
 	background-color: transparant;
 	float:center;
-	left: 5%;
+	left: 2%;
 	margin-right: 2%;
 
 	color: black;
@@ -59,11 +60,12 @@ li {
 	color: black;
 	max-width: 58%;
 	background-color: #ccf2ff;
+	margin-left: 2%;
 }
 
 .afbeeldingen {float: right;
 	margin: 180px 130px 50px 10px;
-	max-width: 45%;
+	max-width: 20%;
 	position: relative;
 }
 
