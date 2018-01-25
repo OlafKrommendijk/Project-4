@@ -1,7 +1,7 @@
 html { 
 	background-color: #b3e6ff;
 }
-bbody {
+body {
 	width: 80%;
 	margin: 0 auto;
 	height: 100%;
@@ -72,23 +72,22 @@ a {
 
 }
 .title {
-	margin: 0% 0% 0% 4%;
+	margin: 0px -60px 0px 0px;
 }
 
-.text {
-	margin-left: 20%;
+.text {float:left;
+	margin: 180px 0px 0px 0px;
 	color: black;
-	max-width: 60%;
+	max-width: 58%;
 	background-color: #ccf2ff;
+	margin-left: 2%;
 }
 
-.afbeeldingen {
-	margin-top: 2%;
-	margin-left: 8%;
-	max-width: 82%;
-	color: black;
+.afbeeldingen {float: right;
+	margin: 180px 130px 50px 10px;
+	max-width: 20%;
+	position: relative;
 }
-
 
 .footer {
    position: fixed;
@@ -101,6 +100,3 @@ a {
    text-decoration-color: black;
 }
 
-.blok {
-	margin-top: 153px;
-}
