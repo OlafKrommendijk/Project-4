@@ -16,15 +16,15 @@ body {
 	color: black;
 	background-color: #5ec6f9;
 	display:inline-block;
- 	padding: 0.9em 1.8em;
- 	margin:0px 0.3em 0.3em 0;
- 	border-radius:2em;
- 	box-sizing: border-box;
- 	text-decoration:none;
- 	font-weight:300;
- 	color:#FFFFFF;
- 	text-align:center;
- 	transition: all 0.2s;
+ 	padding: 0.9em 1.8em;
+ 	margin:0px 0.3em 0.3em 0;
+ 	border-radius:2em;
+ 	box-sizing: border-box;
+ 	text-decoration:none;
+ 	font-weight:300;
+ 	color:#FFFFFF;
+ 	text-align:center;
+ 	transition: all 0.2s;
 }
 .btn, .btn1, .btn2, .btn3, .btn4{
 
@@ -72,11 +72,11 @@ a {
 
 }
 .title {
-	margin: 0px -60px 0px 0px;
+	margin: 0% 1% 1% 1%;
 }
 
 .text {float:left;
-	margin: 180px 0px 0px 0px;
+	margin: 30px 0% 0% 0%;
 	color: black;
 	max-width: 54%;
 	background-color: #ccf2ff;
@@ -87,9 +87,8 @@ a {
 .afbeeldingen {	
 	color: black;
 	float: right;
-	margin: 180px 130px 50px 10px;
+	margin: 4% 14% 0% 0%;
 	max-width: 20%;
-	position: relative;
 }
 
 
