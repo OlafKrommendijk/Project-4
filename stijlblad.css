@@ -96,3 +96,25 @@ a {
    text-align: center;
    text-decoration-color: black;
 }
+
+/*.slides {
+	float: center;
+}*/
+
+.slides {
+	color: black;
+	width: 65%;
+	height: auto;
+	vertical-align: 50%;
+	margin-left: 21%;
+	margin-bottom: 90px;
+}
+
+.mySlides{
+	width: 85%;
+
+}
+
+.Kop {
+	color: black;
+}
