@@ -27,7 +27,7 @@ body {
  	transition: all 0.2s;
 }
 .btn, .btn1, .btn2, .btn3, .btn4{
-
+	max-width: 19%;
 	margin: 0px 1%;
 }
 .btn:hover, .btn1:hover, .btn2:hover, .btn3:hover, .btn4:hover  {
@@ -72,15 +72,61 @@ a {
 
 }
 .title {
-	margin: 0px -60px 0px 0px;
+	margin: 0% 1%x 1% 1%;
 }
 
-.text {float:left;
-	margin: 180px 0px 0px 0px;
+.text {
+	margin-top: 60px;
+	margin-left: 20%;
 	color: black;
-	max-width: 58%;
+	max-width: 60%;
+	background-color: #ccf2ff;
+}
+
+.text2 {
+	float:left;
+	margin: 30px 0% 0% 0%;
+	color: black;
+	width: 29%;
 	background-color: #ccf2ff;
 	margin-left: 2%;
+	margin-bottom: 90px;f;
+}
+
+.text3 {
+	float:right;
+	margin: 30px 0% 0% 0%;
+	color: black;
+	width: 29%;
+	background-color: #ccf2ff;
+	margin-left: 2%;
+	margin-bottom: 90px;f;
+}
+
+#klant1{
+	width: 95%;
+	height: auto;
+}
+#klant2{
+	width: 95%;
+	height: auto;
+}
+#klant3{
+	width: 95%;
+	height: auto;
+}
+
+#klant4{
+	width: 87%;
+	height: auto;
+}
+#klant5{
+	width: 87%;
+	height: auto;
+}
+#klant6{
+	width: 87%;
+	height: auto;
 }
 
 .afbeeldingen {float: right;

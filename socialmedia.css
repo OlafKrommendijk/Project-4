@@ -73,21 +73,24 @@ a {
 }
 }
 .title {
-	margin: 0px -60px 0px 0px;
+	margin: 0% 1% 1% 1%;
 }
 
-.text {float:left;
-	margin: 180px 0px 0px 0px;
+.text {
+	float:left;
+	margin: 30px 0% 0% 0%;
 	color: black;
-	max-width: 58%;
+	max-width: 35%;
 	background-color: #ccf2ff;
 	margin-left: 2%;
+	margin-bottom: 90px;
 }
 
-.afbeeldingen {float: right;
-	margin: 180px 130px 50px 10px;
-	max-width: 20%;
-	position: relative;
+.afbeeldingen {
+	float: right;
+	margin: 30px 0% 0% 0%;
+	width: 35%;
+	margin-bottom: 90px;
 }
 
 .footer {
@@ -101,3 +104,12 @@ a {
    text-decoration-color: black;
 }
 
+#twitter {
+	width: 35%;
+}
+#facebook {
+	width: 35%;
+}
+#Instagram {
+	width: 45%;
+}
