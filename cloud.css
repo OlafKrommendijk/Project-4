@@ -84,11 +84,13 @@ a {
 	
 }
 
-.afbeeldingen {
+#cloud {
 	margin-top: 2%;
 	margin-left: 9%;
-	max-width: 82%;
+	width: 75%;
 	color: black;
+	height: auto;
+	margin-bottom: 60px
 }
 
 .footer {
